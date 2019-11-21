@@ -9,7 +9,6 @@ C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.csproj.CoreCompileInputs.cache
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.RazorAssemblyInfo.cache
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.RazorAssemblyInfo.cs
-C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.AssemblyInfoInputs.cache
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.AssemblyInfo.cs
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.TagHelpers.input.cache
@@ -33,3 +32,4 @@ C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.dll
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.pdb
 C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\ApiForAzureDeployment.csproj.CopyComplete
+C:\Users\johan\source\repos\GDanielJ\ApiForAzureDeployment\ApiForAzureDeployment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

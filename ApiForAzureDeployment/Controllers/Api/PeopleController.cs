@@ -22,11 +22,13 @@ namespace ApiForAzureDeployment.Controllers.Api
 
         // GET api/people
         [HttpGet]
-        public IActionResult GetPerson()
+        public IActionResult GetPeople()
         {
             return Ok(_fakeDataService.GetPeople());
         }
 
-
+        //// GET api/people/{id}
+        //[HttpGet]
+        //public IActionResult
     }
 }

@@ -33,5 +33,10 @@ namespace ApiForAzureDeployment.Data
         {
             return People;
         }
+
+        public Person GetPerson(int id)
+        {
+            return People.SingleOrDefault(p => p.Id == id);
+        }
     }
 }
